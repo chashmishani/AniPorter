@@ -1,1 +1,1 @@
-https://bot.walkingstatue08.workers.dev/0:/MikuUI-TDA-0.6.0-arm64-ab-20221127-UNOFFICIAL.zip
+https://bot.walkingstatue08.workers.dev/0:/SuperiorOS_A13-RO-arm64-bgN-slim_20221216.img.xz
