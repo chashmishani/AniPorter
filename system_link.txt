@@ -1,1 +1,1 @@
-https://udomain.dl.sourceforge.net/project/thegsis/Xdroid/07.12.22/Xdroid-13_arm64-bgN-UNOFFICIAL.img.xz
+https://liquidtelecom.dl.sourceforge.net/project/thegsis/VoidUI/VoidUI-13_arm64-bgN-slim-UNOFFICIAL.img.xz
