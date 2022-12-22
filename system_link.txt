@@ -1,1 +1,1 @@
-https://yer.dl.sourceforge.net/project/thegsis/Xtended/Xtended-XT-13_arm64-bvN-UNOFFICIAL.img.xz
+https://bot.walkingstatue08.workers.dev/0:/SparkOS-13.2-arm64_bvN-Unofficial.img.xz
