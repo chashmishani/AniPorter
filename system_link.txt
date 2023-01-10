@@ -1,1 +1,1 @@
-https://bot.walkingstatue08.workers.dev/0:/SparkOS-13.2-arm64_bvN-Unofficial.img.xz
+https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/09012023/crDroid-9.0-arm64_bgN-slim-Unofficial.img.xz
