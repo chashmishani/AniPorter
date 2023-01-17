@@ -13,13 +13,14 @@ jobs:
             git config --global user.name RahulPalXDA
             git config --global user.email RahulPal.XDA@gmail.com
             git config --global core.editor nano
-            sudo -E apt-get -qq install xz-utils unzip gzip tar wget curl
+            sudo -E apt-get -qq install xz-utils unzip gzip tar wget curl dos2unix
 
        - name: Downloading System & getting system.img.
          run: |
              mkdir Working && cd Working
              curl https://raw.githubusercontent.com/chashmishani/AniPorter/main/config.txt >> port.sh
              curl https://raw.githubusercontent.com/chashmishani/Port_Script/main/main.sh >> port.sh
+             dos2unix port.sh
              chmod 777 port.sh
              ./port.sh
 
