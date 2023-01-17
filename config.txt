@@ -1,4 +1,4 @@
-SYSTEM=<https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/15012023/crDroid-9.1-arm64_bgN-slim-Unofficial.img.xz>
-VENDOR=<https://scorleobot.walkingstatue08.workers.dev/0:/vendor.img.zip>
-BOOT=<https://scorleobot.walkingstatue08.workers.dev/0:/boot.img.zip>
-ZIP_NAME=<Crdroid_Unofficial_by_ChashmishAni.zip>
+SYSTEM=https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/15012023/crDroid-9.1-arm64_bgN-slim-Unofficial.img.xz
+VENDOR=https://scorleobot.walkingstatue08.workers.dev/0:/vendor.img.zip
+BOOT=https://scorleobot.walkingstatue08.workers.dev/0:/boot.img.zip
+ZIP_NAME=Crdroid_Unofficial_by_ChashmishAni
