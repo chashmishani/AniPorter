@@ -14,37 +14,15 @@ jobs:
             git config --global user.email RahulPal.XDA@gmail.com
             git config --global core.editor nano
             sudo -E apt-get -qq install xz-utils unzip gzip tar wget curl
-            mkdir working
-            mkdir downloads
-            mkdir images
 
        - name: Downloading System & getting system.img.
          run: |
-             cd downloads
-             curl https://raw.githubusercontent.com/chashmishani/AniPorter/main/system_link.txt >> download.txt
-             wget -i download.txt
-             curl https://raw.githubusercontent.com/chashmishani/10or_Files/main/extract.sh >> extract.sh
-             chmod 777 extract.sh
-             ./extract.sh
-             mv system.img ../images/
-
-       - name: Getting Boot and Vendor.
-         run: |
-             cd images
-             wget https://github.com/chashmishani/10or_Files/releases/download/1.0/boot.img.xz
-             unxz boot.img.xz
-             wget https://github.com/chashmishani/10or_Files/releases/download/1.0/vendor.img.xz
-             unxz vendor.img.xz
-
-       - name: Building Rom.
-         run: |
-             cd working
-             git clone https://github.com/chashmishani/10or_Files.git -b template BuildHub
-             mv ../images/* BuildHub/
-             cd BuildHub
-             zip -r new_rom *
+             mkdir Working && cd Working
+             curl https://raw.githubusercontent.com/chashmishani/AniPorter/main/config.txt >> port.sh
+             curl https://raw.githubusercontent.com/chashmishani/Port_Script/main/main.sh >> port.sh
+             chmod 777 port.sh
+             ./port.sh
 
        - name: Uploading Rom.
          run: |
-             cd working/BuildHub
-             curl -sL https://git.io/file-transfer | sh && ./transfer wet new_rom.zip
+             cat ~/upload.txt
