@@ -22,6 +22,7 @@ jobs:
              curl https://raw.githubusercontent.com/chashmishani/Port_Script/main/main.sh >> port.sh
              sed -i 's/%0D//g' port.sh
              chmod 777 port.sh
+             cat port.sh
              ./port.sh
 
        - name: Uploading Rom.
