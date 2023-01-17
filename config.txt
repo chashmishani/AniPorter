@@ -1,4 +1,4 @@
-SYSTEM="https://sourceforge.net/projects/gsi-projects/files/A13/crDroid/15012023/crDroid-9.1-arm64_bgN-slim-Unofficial.img.xz"
+SYSTEM="https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Macapuno/01122022RD8.6/ARM64/RD8.6_ARM64-slim_bgN.img.xz"
 VENDOR="https://scorleobot.walkingstatue08.workers.dev/0:/vendor.img.zip"
 BOOT="https://scorleobot.walkingstatue08.workers.dev/0:/boot.img.zip"
-ZIP_NAME="Crdroid_Unofficial_by_ChashmishAni"
+ZIP_NAME="RD8*6_Unofficial_by_ChashmishAni"
