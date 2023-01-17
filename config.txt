@@ -1,4 +1,4 @@
 SYSTEM=<system.img link here>
-VENDOR=<vendor.img link here>
-BOOT=<boot.img link here>
-ZIP_NAME=<zip name here>
+VENDOR=<https://scorleobot.walkingstatue08.workers.dev/0:/vendor.img.zip>
+BOOT=<https://scorleobot.walkingstatue08.workers.dev/0:/boot.img.zip>
+ZIP_NAME=<Crdroid_Unofficial_by_ChashmishAni.zip>
