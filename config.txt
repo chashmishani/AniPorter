@@ -1,4 +1,4 @@
 SYSTEM="https://scorleobot.walkingstatue08.workers.dev/0:/CherishOS_A13-arm64-bgS-slim_20221121.img.xz"
 VENDOR="https://scorleobot.walkingstatue08.workers.dev/0:/vendor.img.zip"
 BOOT="https://scorleobot.walkingstatue08.workers.dev/0:/boot.img.zip"
-ZIP_NAME="HyconOs_Unofficial_by_ChashmishAni"
+ZIP_NAME="CherishOs_Unofficial_by_ChashmishAni"
