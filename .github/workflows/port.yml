@@ -20,6 +20,7 @@ jobs:
              mkdir Working && cd Working
              curl https://raw.githubusercontent.com/chashmishani/AniPorter/main/config.txt >> port.sh
              curl https://raw.githubusercontent.com/chashmishani/Port_Script/main/main.sh >> port.sh
+             sed -i 's/%0D//g' port.sh
              chmod 777 port.sh
              ./port.sh
 
