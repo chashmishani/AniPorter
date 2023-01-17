@@ -1,4 +1,4 @@
-SYSTEM="https://sourceforge.net/projects/lynixgsiprojects/files/A13/RiceDroid/Macapuno/01122022RD8.6/ARM64/RD8.6_ARM64-slim_bgN.img.xz"
+SYSTEM="https://scorleobot.walkingstatue08.workers.dev/0:/HyconOS_v313-arm64-bgS-slim_20230104.img.xz"
 VENDOR="https://scorleobot.walkingstatue08.workers.dev/0:/vendor.img.zip"
 BOOT="https://scorleobot.walkingstatue08.workers.dev/0:/boot.img.zip"
-ZIP_NAME="RD8*6_Unofficial_by_ChashmishAni"
+ZIP_NAME="HyconOs_Unofficial_by_ChashmishAni"
