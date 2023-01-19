@@ -1,4 +1,4 @@
-SYSTEM="https://scorleobot.walkingstatue08.workers.dev/0:/CherishOS_A13-arm64-bgS-slim_20221121.img.xz"
+SYSTEM="https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/lineage-20.0-20230115-UNOFFICIAL-arm64_bgN.img.xz"
 VENDOR="https://scorleobot.walkingstatue08.workers.dev/0:/vendor.img.zip"
 BOOT="https://scorleobot.walkingstatue08.workers.dev/0:/boot.img.zip"
-ZIP_NAME="CherishOs_Unofficial_by_ChashmishAni"
+ZIP_NAME="LineageOS20_Unofficial_by_ChashmishAni"
