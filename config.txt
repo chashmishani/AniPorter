@@ -1,4 +1,4 @@
-SYSTEM="https://sourceforge.net/projects/andyyan-gsi/files/lineage-20-td/lineage-20.0-20230115-UNOFFICIAL-arm64_bgN.img.xz"
+SYSTEM="https://objects.githubusercontent.com/github-production-release-asset-2e65be/504929737/abd924bf-d7ca-4eca-b4cf-e340ed10838b?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230211%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230211T113149Z&X-Amz-Expires=300&X-Amz-Signature=413b3ad059bc47bf1f31735373a8f981adea1ae532aa49477f86ccfb2e2f1741&X-Amz-SignedHeaders=host&actor_id=108116745&key_id=0&repo_id=504929737&response-content-disposition=attachment%3B%20filename%3DAwakenOS_A13-arm64-bgS-slim_20230210.img.xz&response-content-type=application%2Foctet-stream"
 VENDOR="https://scorleobot.walkingstatue08.workers.dev/0:/vendor.img.zip"
 BOOT="https://scorleobot.walkingstatue08.workers.dev/0:/boot.img.zip"
 ZIP_NAME="LineageOS20_Unofficial_by_ChashmishAni"
